@@ -1,7 +1,3 @@
-# selenium-tutorial
-This repository provides a tutorial on using the Selenium library. Selenium is a tool to automate web browsing and run tests on websites.
-
-
 <h1 align="center"> Selenium Tutorial </h1>
 
 <img align="left" src="Selenium.png" width="200">
