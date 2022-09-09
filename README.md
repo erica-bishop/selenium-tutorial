@@ -20,8 +20,8 @@ To see how to scrape and store data from a website using automated searching and
 <img align="left" src="Screen Shot 2022-09-09 at 10.00.47 AM.png" width="200">
 
 ### Libraries Used 
-Selenium
-Time
+- Selenium
+- Time
 
 
 ### Issues/Contributions
